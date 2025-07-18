@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a second year mathematics student @UWaterloo<br>I'm currently working on machine learning and web dev projects.<br>I'm learning C, C++, Python, Excel, and more math!<br>
+Hi! I'm a second year mathematics student @UWaterloo originally from Japan.<br>I'm currently working on machine learning and web dev projects.<br>I'm learning C, C++, Python, Excel, and more math!<br>
 
 
 ## 🌐 Socials:
