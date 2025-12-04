@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second year mathematics student @ UWaterloo originally from Japan.<br>I'm currently working on ML/Agent projects.<br>I'm learning C, C++, Python, and more math!<br>
+Second year mathematics student @ UWaterloo originally from Japan.<br>Currently working on Agentic AI / Cryptography projects.<br>
 
 
 ## 🌐 Socials:
