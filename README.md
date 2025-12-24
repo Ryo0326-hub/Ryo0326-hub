@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second year mathematics student @ UWaterloo originally from Japan.<br>Currently working on Agentic AI / Cryptography projects.<br>
+Mathematics student @ UWaterloo originally from Japan.<br>Currently working on Agentic AI / Cryptography projects.<br>
 
 
 ## 🌐 Socials:
