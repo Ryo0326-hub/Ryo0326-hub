@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mathematics student @ UWaterloo <br>Currently working on Agentic AI / Cryptography projects.<br>
+UWaterloo <br>Currently working on Agentic AI / Cryptography projects.<br>
 
 
 ## 🌐 Socials:
