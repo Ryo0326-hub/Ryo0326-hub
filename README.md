@@ -1,6 +1,5 @@
 # 💫 About Me:
-UWaterloo 
-Crypto Trader
+UWaterloo Crypto Trader (not really)
 
 
 ## 🌐 Socials:
