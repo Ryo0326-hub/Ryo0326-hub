@@ -1,5 +1,5 @@
 # 💫 About Me:
-UWaterloo Crypto Trader
+UWaterloo '29
 
 
 ## 🌐 Socials:
